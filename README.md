@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/RitikaKatoch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitikaKatoch_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritika-katoch-a7029a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika-katoch-a7029a1b7" height="30" width="40" /></a>
-<a href="https://instagram.com/ritikakatoch_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikakatoch28" height="30" width="40" /></a>
+<a href="https://instagram.com/ritikakatoch_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikakatoch" height="30" width="40" /></a>
 
 <img src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" align="right" alt="Logo" width="400" height="300">
 
@@ -24,7 +24,7 @@
 
 ## My Stats 📊
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikakatoch28&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikakatoch&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
 <img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikakatoch&layout=compact&theme=radical" />
 <img align="center" src="https://komarev.com/ghpvc/?username=ritikakatoch" />
 
