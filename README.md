@@ -1,7 +1,7 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ritika Katoch!
 
 <p align="left">
-<a href="https://twitter.com/RitikaKatoch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitikaKatoch_" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/RitikaKatoch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitikaKatoch_" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/ritika-katoch-a7029a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika-katoch-a7029a1b7" height="30" width="40" /></a>
 <a href="https://instagram.com/ritikakatoch_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikakatoch" height="30" width="40" /></a>
 
