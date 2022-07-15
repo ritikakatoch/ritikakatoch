@@ -9,7 +9,7 @@
 
 ## About Me 🚀
 
-* 🎓👨‍💻 I’m a coding enthusiast & sophomore pursuing Computer Science Engineering. 
+* 🎓👨‍💻 I’m a coding enthusiast & a pre-final year student pursuing Computer Science Engineering. 
  
 * 💻  I am passionate about Web Development, Software Development and Open Source.
 
@@ -19,7 +19,7 @@
 
 * 📙 Talk to me about Software Development, Open Source, Communities.
 
-* ⚡ Fun fact: If something makes sense I would read/watch that again and again xd.
+* ⚡ Fun fact: Always ready to play chrome dino xd.
 
 
 ## My Stats 📊
