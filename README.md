@@ -15,13 +15,6 @@
 
 * 🎨 I am a  Web Developer.
 
-* 👭 I'm driven by the will to create an impact and create own world of aspirations. 
-
-* 📙 Talk to me about Software Development, Open Source, Communities.
-
-* ⚡ Fun fact: Always ready to play chrome dino xd.
-
-
 ## My Stats 📊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikakatoch&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
