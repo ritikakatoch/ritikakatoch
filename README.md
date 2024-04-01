@@ -5,8 +5,6 @@
 <a href="https://linkedin.com/in/ritika-katoch-a7029a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika-katoch-a7029a1b7" height="30" width="40" /></a>
 <a href="https://instagram.com/ritikakatoch_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikakatoch" height="30" width="40" /></a>
 
-<img src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" align="right" alt="Logo" width="400" height="300">
-
 ## About Me 🚀
 
 * 🎓👨‍💻 I’m a coding enthusiast & a final year student pursuing Computer Science Engineering. 
