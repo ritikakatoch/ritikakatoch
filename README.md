@@ -10,9 +10,7 @@
 ## About Me 🚀
 
 * 🎓👨‍💻 I’m a coding enthusiast & a final year student pursuing Computer Science Engineering. 
- 
 * 💻  I am passionate about Web Development, Software Development and Open Source.
-
 * 🎨 I am a  Web Developer.
 
 ## My Stats 📊
