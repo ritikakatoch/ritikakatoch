@@ -1,15 +1,31 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ritika Katoch!
+Hey 👋, I'm Vikrant Bhat! and you've reached my Dev space on the WWW :)
+Linkedin Badge Twitter Badge Dev.to Badge Hashnode Badge
 
-<p align="left">
-<!-- <a href="https://twitter.com/RitikaKatoch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitikaKatoch_" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/ritika-katoch-a7029a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika-katoch-a7029a1b7" height="30" width="40" /></a>
-<a href="https://instagram.com/ritikakatoch_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikakatoch" height="30" width="40" /></a>
+Glad to see you here!   
 
-## About Me 🚀
 
-* 🎓👨‍💻 I’m a coding enthusiast & a final year student pursuing Computer Science Engineering. 
-* 💻  I am passionate about Web Development, Software Development and Open Source.
-* 🎨 I am a  Web Developer.
+Currently working at Razorpay. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development.
+
+Joined Github 5+ years ago.
+
+Since then I pushed 8836+ commits, opened 79+ issues, submitted 371+ pull requests, created 4+ gists and contributed to 24+ public repositories.
+
+
+
+
+
+Talking about Personal Stuff:
+🛠   At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
+👀   What I want to learn: WASM, Golang, Rust(should I?)
+👨🏻‍💻   Most of my projects are available on Github.
+💬   Ask me about anything here! I am happy to help.
+👾   Fun fact: undefined can be defined in Javascript.
+📫   How to reach me: Twitter or vik.bhat223@gmail.com.
+My Absolute Favorites:
+💻   I love to explore new tech and build cool stuff with it.
+📰   Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
+🍕   Hackathons, meetups & tech events.
+⚡   Fun fact: I love to play guitar and there is a 88% probability that I'll beat you in a badminton match :p
 
 ## My Stats 📊
 
